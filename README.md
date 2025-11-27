@@ -303,7 +303,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots on serial monitor   : 
-![WhatsApp Image 2025-10-10 at 09 47 23_0f12d9b7](https://github.com/user-attachments/assets/f143f62d-e3ec-4dd5-8931-46f618f1f15c)
+<img width="1592" height="841" alt="image" src="https://github.com/user-attachments/assets/00e73a98-450c-4139-a4a4-2265f48953c6" />
 
 <img width="695" height="515" alt="image" src="https://github.com/user-attachments/assets/e7c7f9ba-61c3-44e0-b4e4-a865f76d06d1" />
 
